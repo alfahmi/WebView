@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Ini XML Gan</string>
+    <string name="app_name">WebView</string>
+
+</resources>
